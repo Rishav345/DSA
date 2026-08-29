@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishav345/DSA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Rishav345/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Rishav345/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Rishav345/DSA/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rishav345/DSA/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Rishav345/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
