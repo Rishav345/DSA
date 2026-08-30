@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rishav345/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rishav345/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rishav345/DSA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/Rishav345/DSA/tree/master/0283-move-zeroes) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Rishav345/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Rishav345/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Rishav345/DSA/tree/master/0283-move-zeroes) |
 ## Sorting
