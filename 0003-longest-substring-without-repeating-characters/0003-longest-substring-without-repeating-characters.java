@@ -16,7 +16,7 @@ class Solution {
             charIndexMap.put(currentChar, right);
 
             int currentLength = right - left + 1;
-            maxLength = Math.max(maxLength, currentLength);
+            maxLength = Math.max(currentLength, maxLength);
         }
 
         return maxLength;
