@@ -1,7 +1,7 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
 
-        List<List<Integer>> ans = new ArrayList<>();
+        List<List<Integer>> result = new ArrayList<>();
         Arrays.sort(nums);
         for (int i = 0; i < nums.length; i++) {
             if (i > 0 && nums[i] == nums[i - 1])
@@ -18,7 +18,7 @@ class Solution {
                     if (sum == target) {
                         List<Integer> temp = new ArrayList<>();
                         temp.addAll(List.of(nums[i],nums[j],nums[k],nums[l]));
-                        ans.add(temp);
+                        result.add(temp);
                         k++;
                         l--;
 
@@ -33,6 +33,6 @@ class Solution {
                 }
             }
         }
-        return ans;
+        return result;
     }
 }
