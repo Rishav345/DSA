@@ -5,7 +5,7 @@ class Solution {
         arr[j] = temp;
     }
 
-    static void reverse(int[] arr, int i, int j) {
+    static void rev(int[] arr, int i, int j) {
         while (i < j) {
             swap(arr, i, j);
             i++;
@@ -25,7 +25,7 @@ class Solution {
 
         for (int i = n - 1; i > bp; i--) {
             if (bp < 0) {
-                reverse(nums, n - 1, 0);
+                rev(nums, n - 1, 0);
                 break;
             }
             if (nums[bp] < nums[i]) {
@@ -34,7 +34,7 @@ class Solution {
             }
         }
 
-        reverse(nums, bp + 1, n - 1);
+        rev(nums, bp + 1, n - 1);
 
     }
 }
