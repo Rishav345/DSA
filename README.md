@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Rishav345/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Rishav345/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rishav345/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishav345/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Rishav345/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishav345/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav345/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Rishav345/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav345/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rishav345/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishav345/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rishav345/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rishav345/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rishav345/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rishav345/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishav345/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rishav345/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rishav345/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Rishav345/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishav345/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Rishav345/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rishav345/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishav345/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rishav345/DSA/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Rishav345/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
